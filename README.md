@@ -1,3 +1,3 @@
-# PI_IV
+# Projeto Integrador IV
 
-Matheus
+Este é o repositório da disciplina de Projeto Integrador IV.
