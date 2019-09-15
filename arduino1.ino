@@ -12,7 +12,6 @@ void setup(){
  
 //laço principal (executado infinitamente)
 void loop() {
-  
   val = analogRead(analogPin);   // lê o pino de entrada
   tensao = ((5.0 * val)/1023);
   Serial.println(tensao); // imprime o valor na porta serial
@@ -22,5 +21,4 @@ void loop() {
   else{
     digitalWrite(led, LOW);
   }
- 
 }
